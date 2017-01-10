@@ -14,4 +14,7 @@ Checkout the [theme documentation](https://www.storyblok.com/docs/Rendering-Serv
 4. Run ```gulp```
 5. Ready! You can now edit the templates in ```views``` or defining css/js in the ```source``` folder.
 
+## HTTPS / SSL without errors:
 
+1. https://certsimple.com/blog/localhost-ssl-fix
+2. Rename ```_cert.js``` to ```cert.js``` and insert paths to your `key.pem` and `cert.pem`.
