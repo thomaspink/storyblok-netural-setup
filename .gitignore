@@ -1,0 +1,5 @@
+/bower_components
+/node_modules
+/token.js
+/views/assets/scripts.js
+/views/assets/theme.css
